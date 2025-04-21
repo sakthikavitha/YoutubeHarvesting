@@ -12,7 +12,7 @@ import json
 
 #api key connection
 def api_connect():
-    apikey    = 'AIzaSyAx2pRgb4-oQeNvyWHRHxE6EiqFHPyXG-E'
+    apikey    = ''
     api_service_name = "youtube"
     api_version = "v3"
     
